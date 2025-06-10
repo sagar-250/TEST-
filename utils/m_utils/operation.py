@@ -1,3 +1,5 @@
+from ..c_utils.replicate import replicate
+
 def add(a:int,b:int)->int:
     return a+b
 
